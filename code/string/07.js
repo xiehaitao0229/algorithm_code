@@ -7,4 +7,4 @@ var isPalindrome = function(nums) {
     return arr.join('')===arr.reverse().join('');
 };
 
-console.log(isPalindrome(-121))
+console.log(isPalindrome(-121))   
